@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="GLobo suldeste",GLOBO SP
+https://ww2.embedtv.lat/globosp
+
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/IQS0pJ" group-title="Notícias",GLOBO NEWS
+https://ww2.embedtv.lat/globonews
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/IQS0pJ" group-title="Notícias",GLOBO NEWS
+https://ww2.embedtv.lat/globonews
+
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="",SBT SP
+https://ww2.embedtv.lat/sbtsp
+
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="",SBT RJ
+https://ww2.embedtv.lat/sbtrj
+
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ig4JdX" group-title="NOTICIAS",BAND NEWS
+https://ww2.embedtv.lat/bandnews
+
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png Band" group-title="TV ABERTA",BAND SP
+https://ww2.embedtv.lat/bandsp
+
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",BAND RJ
+https://ww2.embedtv.lat/bandrj
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",BAND SPORTS 
+https://ww2.embedtv.lat/bandsports
+
